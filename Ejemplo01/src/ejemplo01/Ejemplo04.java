@@ -14,6 +14,10 @@ public class Ejemplo04 {
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
+        
+        //el print nl me imprime y me da un salto de linea automaticamenrte y el print lo usamos pra mostrar el mensaje en una sola linea 
+        
+        
         System.out.print(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");

@@ -20,6 +20,7 @@ public class Ejemplo07 {
         System.out.printf("El resultados es: %f\n", resultado);
         
         System.out.printf("El resultados es: %.2f\n", resultado);
+        // el porcetnaje .2f .3f etc, nos indica el numnero de decimles que quiero que me presnete 
               
     }
 }

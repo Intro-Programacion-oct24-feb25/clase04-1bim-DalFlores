@@ -18,6 +18,7 @@ public class Ejemplo10 {
         String apellidoEstudiante = "Flores Rodriguez";
         int edad = 18;
         
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+edad);    
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"
+                +edad);    
     }
 }
